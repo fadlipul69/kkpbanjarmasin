@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
 	<head>
-		<script>
+		<script> 
 			if (window.performance && performance.mark) performance.mark("TTP")
 		</script>
 		<meta charset="utf-8">
